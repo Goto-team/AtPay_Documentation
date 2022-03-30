@@ -4,10 +4,10 @@ AtPay payment system gives your buyers a simplified and secure checkout experien
 
 ## Table of content
 
-0. [Registaration](#markdown-header-how-to-start?)
-1. [Create order](#markdown-header-step-1-create-order)
-2. [Pay order](#markdown-header-step-2-redirect-buyer-to-pay-order)
-3. [Confirm order payment](#markdown-header-step-3-receipt-of-payment-confirmation)
+0. [Registaration](#how-to-start?)
+1. [Create order](#step-1-create-order)
+2. [Pay order](#step-2-redirect-buyer-to-pay-order)
+3. [Confirm order payment](#step-3-receipt-of-payment-confirmation)
 
 ## How to start?
 
