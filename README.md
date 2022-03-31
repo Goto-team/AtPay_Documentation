@@ -11,7 +11,7 @@ AtPay payment system gives your buyers a simplified and secure checkout experien
 
 ## How to start?
 
-Now we are working on production in alpha testing mode. If you want to try to accept crypto payments, send us an email on [at@atpay.online](mailto:at@atpay.online). Please send us all your business documents and owner's or CEO’s ID to comply with the KYC-AML procedure and signing agreement.
+Now we are working on production in alpha testing mode. If you want to try to accept crypto payments, send us an email on [at@goto.llc](mailto:at@goto.llc). Please send us all your business documents and owner's or CEO’s ID to comply with the KYC-AML procedure and signing agreement.
 We will register you in the AtPay payment system, set a `pass_phrase` and issue a `merchant_id`.
 After that, you can start using our payment system.
 
